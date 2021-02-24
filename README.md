@@ -17,7 +17,8 @@ responsible for asserting your solution works as intended by testing the
 behavior visually in the browser.
 
 1. Fork and clone this repository
-2. Open `index.html` in Chrome (Tip: you can use `open index.html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file)
+2. Open `index.html` in Chrome (Tip: you can use `
+html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file)
 3. Put your JavaScript knowledge to the test and work your way through the deliverables
 
 ## Structuring Your Code:
